@@ -1,2 +1,6 @@
 hi this is my first branch
+<<<<<<< HEAD
 master is the best
+=======
+welcome to branch 1git status
+>>>>>>> branch1
